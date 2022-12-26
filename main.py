@@ -9,7 +9,7 @@ token = input("Введите ваш токен, получить можно т�
               "https://api.lolz.guru/oauth/authorize?response_type=token&client_id=0sga4tlyfi&scope=read+post+market"
               " <--- \n")
 
-# token = "4321448bd0f8ee3bc88be1a1ac092e3d234b607a"
+# token = ""
 
 current_ids = []
 
